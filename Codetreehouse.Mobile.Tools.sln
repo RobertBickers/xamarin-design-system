@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codetreehouse.DesignSystem.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codetreehouse.DesignSystem.DemoApp.iOS", "Codetreehouse.DesignSystem.DemoApp\Codetreehouse.DesignSystem.DemoApp.iOS\Codetreehouse.DesignSystem.DemoApp.iOS.csproj", "{3040E0F5-3D1C-4447-88A1-9023510F1C81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codetreehouse.Xamarin.UILibrary", "Codetreehouse.Xamarin.UILibrary\Codetreehouse.Xamarin.UILibrary.csproj", "{9C0ADE98-E2FE-4419-A0EB-F52AFDBE541E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{3040E0F5-3D1C-4447-88A1-9023510F1C81}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
 		{3040E0F5-3D1C-4447-88A1-9023510F1C81}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
 		{3040E0F5-3D1C-4447-88A1-9023510F1C81}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+		{9C0ADE98-E2FE-4419-A0EB-F52AFDBE541E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0ADE98-E2FE-4419-A0EB-F52AFDBE541E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0ADE98-E2FE-4419-A0EB-F52AFDBE541E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0ADE98-E2FE-4419-A0EB-F52AFDBE541E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
